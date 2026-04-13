@@ -3,9 +3,7 @@
 
 ## About Me
 - Pentesting / hardware / ESP32
-- Building weird stuff
-
-
+- Building random stuff
 
 ## Languages
 ![Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)
