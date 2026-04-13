@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**willfreyman/willfreyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Will
 
-Here are some ideas to get you started:
+## About Me
+- Pentesting / hardware / ESP32
+- Building weird stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Languages
+![Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)
+
+## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=willfreyman)
