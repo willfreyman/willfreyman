@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Will
+# Hi, I'm Will
 
 ## About Me
 - Pentesting / hardware / ESP32
