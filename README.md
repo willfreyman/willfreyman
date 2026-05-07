@@ -6,7 +6,7 @@
 - Building random stuff
 
 ## Languages
-![Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)
+![Skills](https://skillicons.dev/icons?i=python,go,js,html,css)
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=willfreyman)
