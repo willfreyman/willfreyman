@@ -5,6 +5,8 @@
 - Pentesting / hardware / ESP32
 - Building random stuff
 
+![Expiriance](https://skillicons.dev/icons?i=raspberrypi,arduino)
+
 ## Languages
 ![Skills](https://skillicons.dev/icons?i=python,go,js,html,css)
 
